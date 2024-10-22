@@ -4,7 +4,7 @@ Using Beautiful soup, I scraped crypto coin details from yahoo.com, Beautiful So
 
 ## **Language translator**
 
-Using tkinter an ui in python
+Using tkinter as ui in python
 
 ## **Text to speech and speech to text**
 
